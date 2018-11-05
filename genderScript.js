@@ -14,7 +14,7 @@
  Initial prototype
  */
 
-(function TissQuickRegistrationClass() {
+(function AuroraGenderHighlighterClass() {
     var self = this;
 
     self.init = function () {
