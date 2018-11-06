@@ -7,11 +7,11 @@ by Lukas Pöhn
 
 ## What is it about?
 
-Getting less points for DENKI sucks just because you missed gendering a word. This script hopefully helps with that.
+Getting less points for DWI just because you missed gendering a word sucks. This script hopefully helps with that.
 
 ### A brief description of the script and its possibilities
 
-The Script checks the textfield against almost 700 non-gendered words and notifys you if it finds one
+The Script checks the textfield against almost 700 non-gendered words and notifys you if it finds one. It´s far from perfect and will have false positives,.... Use at own risk ;)
 
 ## Requirements
 
@@ -38,4 +38,4 @@ Ungendered words stolen from: https://geschicktgendern.de/ (as of 05.11.2018)
 
 If you find any errors or bugs, feel free to fix them and create a MR :D
 
-Thanks :D
+Thanks and have fun with you dwi-challengen :D
