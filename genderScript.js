@@ -723,7 +723,7 @@
     };
         var textDiv = self.getTextDiv();
         var textContent = self.getText();
-        textContent = textContent.replace(/[\W_]+/g," ");
+        textContent = textContent.replace(/[\W]+/g," ");
         var ungenderedWords = [];
         self.log("textField: " + textDiv);
         self.log("text: " + textContent);
