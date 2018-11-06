@@ -2,7 +2,7 @@
 // @name       Aurora Gender Highlighter
 // @namespace  lukasPoehn
 // @version    0.1.0
-// @description  Script to find ungendered Word in your
+// @description  Script to find ungendered Words in your Aurora work
 // @match      https://aurora.iguw.tuwien.ac.at/course/dwi/challenge/*
 // @copyright  2018+, Lukas Pöhn
 // @require    http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
