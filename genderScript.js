@@ -6,6 +6,7 @@
 // @match      https://aurora.iguw.tuwien.ac.at/course/dwi/challenge/*
 // @copyright  2018+, Lukas Pöhn
 // @require    http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+// @downloadURL https://raw.githubusercontent.com/Blackfreezzer/AuroraGenderHelper/master/genderScript.js
 // ==/UserScript==
 
 /*
