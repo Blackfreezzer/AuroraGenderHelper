@@ -38,4 +38,4 @@ Ungendered words stolen from: https://geschicktgendern.de/ (as of 05.11.2018)
 
 If you find any errors or bugs, feel free to fix them and create a MR :D
 
-Thanks and have fun with you dwi-challengen :D
+Thanks and have fun with you dwi-challenges :D
